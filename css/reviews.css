@@ -51,7 +51,7 @@
     justify-content: space-between;
     align-items: center;
     flex-wrap: nowrap;
-    margin-top: auto;
+    margin-top: normal;
   }
   #reviews .review .star-group .name {
     color: #1A1A1A;
