@@ -55,9 +55,10 @@
   }
   #reviews .review .star-group .name {
     color: #1A1A1A;
-    line-height: 1.33333333em;
+    line-height: 1.4em;
     text-align: left;
     font-weight: bold;
+    font-size: 28px;
     display: block;
   }
   #reviews .review .star-group .desc {
